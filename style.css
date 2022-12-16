@@ -1,0 +1,64 @@
+p1 {
+    font-size: 200%;
+    font-style: inherit;
+    text-align: center;
+}
+a {
+    font-size: 200%;
+    text-align: center;
+}
+P2 {
+    text-align: center;
+    font-size: 100%;
+}
+p3 {
+    text-align: center;
+    font-size: 100%;
+}
+p4 {
+text-align: center;
+font-size: 100%;
+}
+p5 {
+    text-align: center;
+font-size: 100%;
+}
+p6 {
+    text-align: center;
+    font-size: 100%;
+}
+p7 {
+    text-align: center;
+    font-size: 100%;
+}
+p8 {
+    text-align: center;
+    font-size: 100%;
+}
+section {
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: mandatory;
+}
+section_item {
+    scroll-snap-align: start;
+}
+p6 {
+    text-align: center;
+    font-size: 100%;
+}
+@media {max-width: 400px;
+    .section-1 {
+        font-size: 14px;
+        padding: 10px;
+        text-align: center;
+    }
+
+    
+}
+.{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
